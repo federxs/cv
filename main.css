@@ -1,3 +1,26 @@
-h1,h2,h3,h4,h5,h6 {font-family: "Roboto Condensed", sans-serif}
-html,body,p,span {font-family: "Roboto", sans-serif}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto Condensed", sans-serif
+}
 
+html, body, p, span {
+    font-family: "Roboto", sans-serif
+}
+
+.name {
+    font-family: "Roboto Condensed", sans-serif;
+    text-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
+    line-height: normal;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.ocupation {
+    font-family: "Roboto", sans-serif;
+    text-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
+    font-weight: 100;
+    margin-top: 0;
+}
+
+.condensed {
+    font-family: "Roboto Condensed", sans-serif
+}
